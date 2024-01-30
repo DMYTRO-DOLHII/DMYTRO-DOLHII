@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Dmytro Dolhii profile views](https://u8views.com/api/v1/github/profiles/61661329/views/day-week-month-total-count.svg)](https://u8views.com/github/DMYTRO-DOLHII)
+
 <!--
 **DMYTRO-DOLHII/DMYTRO-DOLHII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
